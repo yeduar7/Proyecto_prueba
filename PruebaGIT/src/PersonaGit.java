@@ -1,16 +1,16 @@
 
 public class PersonaGit {
 
-	private String nombre;
+	private String name;
 	private int dni;
 	
 	public PersonaGit(String nombre, int dni) {
-		this.nombre = nombre;
+		this.name = nombre;
 		this.dni = dni;
 	}
 
 	public String getNombre() {
-		return nombre;
+		return name;
 	}
 
 //	public void setNombre(String nombre) {
