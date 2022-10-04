@@ -1,10 +1,10 @@
 
-public class Persona {
+public class PersonaGit {
 
 	private String nombre;
 	private int dni;
 	
-	public Persona(String nombre, int dni) {
+	public PersonaGit(String nombre, int dni) {
 		this.nombre = nombre;
 		this.dni = dni;
 	}
